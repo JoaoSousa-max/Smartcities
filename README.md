@@ -19,10 +19,15 @@ L'image suivante représente le brochage du Raspberry Pi Pico W rp2040:
 
 # Les répertoires disponibles ont les differentes fonctions:
 GPIO: LED simple, bouton-poussoir, interruption.
+
 AD-PWM: Lecture du potentiomètre, PWM.
-LCD: Documentation des fonctions de la librairie, affichage de la valeur du potentiomètre
+
+LCD: Documentation des fonctions de la librairie, affichage de la valeur du potentiomètre.
+
 LED_neo: utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel.
+
 sensor: température et humidité, luminosité, PIR.
+
 network : Accès réseau avec le RPi Pico.
 
 # Voici les liens vers les différents sous-répertoires sur ce projet:
