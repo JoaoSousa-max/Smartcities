@@ -3,6 +3,7 @@
 Ce répertoire téléchargé sur Github permet de retraiter le projet Glignotement_de_LED_avec_Bouton_poussoir, réalisé pendant le cours de Samrtcities. 
 
 # Environement de travail
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/f7c3e7da-45fd-404f-a46c-c288086f3f63" />
 
 Pour la réalisation de ce projet, l'environement de travail utilisé était Visual Studio de Microsoft a l'aide de l'extension MicroPython.
 Cette extension permet l'utlisation du language de programation MicroPython. Le MicroPython permet ainsi de coder, débougger et télécharger le code sur le microcontrôleur.
