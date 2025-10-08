@@ -1,3 +1,4 @@
+# Objectif
 Premier Labo avec micro python Contrôle d'une LED avec un bouton poussoir sur un microcontroleur MicroPython
 
 # Description: 
@@ -26,6 +27,7 @@ Il y a une sequence de quatres touches sur le bouton poussoir qui influencera l'
 3 - Lors de la 3ème impulsion sur le bouton poussoir, la LED clignote à une frequence de 16Hz. 
 
 4 - Lors de la 4ème impulsion sur le bouton poussoir, la LED s'éteint et redemarre alors le cycle.
+
 
 
 
