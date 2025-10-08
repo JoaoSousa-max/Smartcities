@@ -14,17 +14,18 @@ Il y a une sequence de quatres touches sur le bouton poussoir qui influencera l'
 
 - Liste des broches connectées: 
 
--LED connectée à la broche GP20 
+- LED connectée à la broche GP20 
 
--Bouton Poussoir connecté à la broche GP18
+- Bouton Poussoir connecté à la broche GP18
 
 # Déroulemnt du code: 
-1- Lors de la 1ère impulsion sur le bouton poussoir, la LED clignote avec une frequence de 5Hz.
+1 - Lors de la 1ère impulsion sur le bouton poussoir, la LED clignote avec une frequence de 5Hz.
 
-2- Lors de la 2ème impulsion sur le bouton poussoir, la LED clignote à une frequence de 10Hz.
+2 - Lors de la 2ème impulsion sur le bouton poussoir, la LED clignote à une frequence de 10Hz.
 
-3- Lors de la 3ème impulsion sur le bouton poussoir, la LED clignote à une frequence de 16Hz. 
+3 - Lors de la 3ème impulsion sur le bouton poussoir, la LED clignote à une frequence de 16Hz. 
 
-4- Lors de la 4ème impulsion sur le bouton poussoir, la LED s'éteint et redemarre alors le cycle.
+4 - Lors de la 4ème impulsion sur le bouton poussoir, la LED s'éteint et redemarre alors le cycle.
+
 
 
