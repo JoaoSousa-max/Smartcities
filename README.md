@@ -8,7 +8,7 @@ Ce répertoire téléchargé sur Github permet de retraiter le projet réalisé 
 Pour la réalisation de ce projet, l'environement de travail utilisé était Visual Studio de Microsoft, à l'aide de l'extension MicroPython.
 Cette extension permet l'utlisation du langage de programation MicroPython. Le MicroPython permet ainsi de coder, déboguer et télécharger le code sur le microcontrôleur.
 
-# Raspberry Pi Pico W rp2040
+# Raspberry Pi Pico W RP2040
 
 Le microcontroleur utilisé pour la réalisation de ce labo est le Raspberry Pi Pico W RP2040, constitué de 21 broches.
 
@@ -18,7 +18,7 @@ L'image suivante représente le brochage du Raspberry Pi Pico W RP2040:
 
 <img width="418" height="274" alt="Image" src="https://github.com/user-attachments/assets/ab606267-f51e-47b3-9563-2e294ae2c421" />
 
-Datasheet du Raspberry Pi Pico W rp2040 https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
+Datasheet du Raspberry Pi Pico W RP2040 https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
 
 # Les répertoires disponibles ont les differentes fonctions:
 GPIO: LED simple, bouton-poussoir, interruption.
