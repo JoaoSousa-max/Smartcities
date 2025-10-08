@@ -1,7 +1,11 @@
 # Smartcities
-Projet Smartcities 
+# Introduction
+Ce répertoire téléchargé sur Github permet de retraiter le projet Glignotement_de_LED_avec_Bouton_poussoir, réalisé pendant le cours de Samrtcities. 
 
-Pour la réalisation de ce projet, l'environement de travail utilisé était Visual Studio de Microsoft a l'aide de l'extension MicroPython que j'ai installé sur le logiciel. Cette extension permet l'utlisation du language de programation MicroPython. Le MicroPython permet ainsi de coder et télécharger le code sur le microcontrôleur.
+# Environement de travail
+
+Pour la réalisation de ce projet, l'environement de travail utilisé était Visual Studio de Microsoft a l'aide de l'extension MicroPython.
+Cette extension permet l'utlisation du language de programation MicroPython. Le MicroPython permet ainsi de coder, débougger et télécharger le code sur le microcontrôleur.
 
 # Raspberry Pi Pico W rp2040
 
