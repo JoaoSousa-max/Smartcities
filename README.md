@@ -1,4 +1,4 @@
-# Smartcities
+# SmartCities
 
 Ce répertoire téléchargé sur Github permet de retraiter le projet réalisé pendant le cours de Samrtcities. 
 
