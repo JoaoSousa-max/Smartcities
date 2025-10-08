@@ -6,10 +6,13 @@ Il y a une sequence de quatres touches sur le bouton poussoir qui influencera l'
 
 # Materiel utlisé pour ce rapport:
 
-#1 LED 
-#1 bouton poussoir 
-#Des Fils de connexion 
-#Liste des broches connectées: 
+- 1 LED 
+
+- 1 bouton poussoir 
+
+- Des Fils de connexion 
+
+- Liste des broches connectées: 
 
 -LED connectée à la broche GP20 
 
@@ -23,4 +26,5 @@ Il y a une sequence de quatres touches sur le bouton poussoir qui influencera l'
 3- Lors de la 3ème impulsion sur le bouton poussoir, la LED clignote à une frequence de 16Hz. 
 
 4- Lors de la 4ème impulsion sur le bouton poussoir, la LED s'éteint et redemarre alors le cycle.
+
 
