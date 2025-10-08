@@ -1,5 +1,5 @@
 # Smartcities
-# Introduction
+
 Ce répertoire téléchargé sur Github permet de retraiter le projet Glignotement_de_LED_avec_Bouton_poussoir, réalisé pendant le cours de Samrtcities. 
 
 # Environement de travail
