@@ -3,6 +3,8 @@ Projet Smartcities
 
 Pour la réalisation de ce projet, l'environement de travail utilisé était Visual Studio de Microsoft a l'aide de l'extension MicroPython que j'ai installé sur le logiciel. Cette extension permet l'utlisation du language de programation MicroPython. Le MicroPython permet ainsi de coder et télécharger le code sur le microcontrôleur.
 
+# Raspberry Pi Pico W rp2040
+
 Le microcontroleur utilisé pour la réalisation de ce labo est le Raspberry Pi Pico W rp2040, d'où il  est est constitué de 21 broches.
 
 De ces 21 broches: Il y a differents types de protocol de communication disponibles comme l'UART, I2C, des pins GPIO et des GPIO qui possedent le PWM.
