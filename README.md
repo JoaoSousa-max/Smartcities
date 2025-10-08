@@ -17,8 +17,16 @@ L'image suivante représente le brochage du Raspberry Pi Pico W rp2040:
 
 <img width="418" height="274" alt="Image" src="https://github.com/user-attachments/assets/ab606267-f51e-47b3-9563-2e294ae2c421" />
 
-Voici les liens vers les différents sous-répertoires sur ce projet:
-- [GPIO](GPIO)
+# Les répertoires disponibles ont les differentes fonctions:
+GPIO: LED simple, bouton-poussoir, interruption.
+AD-PWM: Lecture du potentiomètre, PWM.
+LCD: Documentation des fonctions de la librairie, affichage de la valeur du potentiomètre
+LED_neo: utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel.
+sensor: température et humidité, luminosité, PIR.
+network : Accès réseau avec le RPi Pico.
+
+# Voici les liens vers les différents sous-répertoires sur ce projet:
+- [GPIO](GPIO) 
 - [LED](LED)
 - [LCD](LCD)
 - [AD-PWM](AD-PWM)
