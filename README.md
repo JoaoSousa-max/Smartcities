@@ -11,5 +11,12 @@ L'image suivante représente le brochage du Raspberry Pi Pico W rp2040:
 <img width="418" height="274" alt="Image" src="https://github.com/user-attachments/assets/ab606267-f51e-47b3-9563-2e294ae2c421" />
 
 Voici les liens vers les différents sous-répertoires sur ce projet:
-[GPIO](GPIO)
-GPIO
+- [GPIO](GPIO)
+- [LED](LED)
+- [LCD](LCD)
+- [AD-PWM](AD-PWM)
+- [sensor](sensor)
+- [network](network)
+
+  
+
