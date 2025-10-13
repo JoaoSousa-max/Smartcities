@@ -14,11 +14,8 @@ Une LED est connectée sur une autre broche PWM, qui permet une variation de l'i
 # Materiel utlisé pour ce rapport:
 
 - 1x Buzzer
-
 - 1x LED
-
 - 1x Potentiomètre
-
 - Des Fils de connexion
 
 
@@ -28,14 +25,14 @@ Une LED est connectée sur une autre broche PWM, qui permet une variation de l'i
 - Buzzer connecté à la broche D18
 - Bouton Poussoir connecté à la broche A1
 
-Bouton Poussoir connecté à la broche GP18
+# PWM
+
+Le PWM (Pulse widht Modulation) permet de faire varier l'intensité moyenne d'un signal numérique lorsqu'on modifie le rapport cyclique.
+- Le buzzer utilise le PWM pour varier le volume.
+- La LED utilise le PWM pour varier son intensité lumineuse.
 
 # Déroulemnt du code:
-1 - Lors de la 1ère impulsion sur le bouton poussoir, la LED clignote avec une frequence de 5Hz.
+1 - 
 
-2 - Lors de la 2ème impulsion sur le bouton poussoir, la LED clignote à une frequence de 10Hz.
 
-3 - Lors de la 3ème impulsion sur le bouton poussoir, la LED clignote à une frequence de 16Hz.
-
-4 - Lors de la 4ème impulsion sur le bouton poussoir, la LED s'éteint et redemarre alors le cycle.
 
