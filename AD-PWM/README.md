@@ -25,14 +25,36 @@ Une LED est connectée sur une autre broche PWM, qui permet une variation de l'i
 - Buzzer connecté à la broche D18
 - Bouton Poussoir connecté à la broche A1
 
-# PWM
+# PWM:
 
 Le PWM (Pulse widht Modulation) permet de faire varier l'intensité moyenne d'un signal numérique lorsqu'on modifie le rapport cyclique.
 - Le buzzer utilise le PWM pour varier le volume.
 - La LED utilise le PWM pour varier son intensité lumineuse.
 
-# Déroulemnt du code:
-1 - 
+# Déroulement du code:
+
+1 - Le code commence avec l'initialisation de la gestion des broches GPIO, GPIO PWM et l'ADC.
+
+2 - Configuration des broches: La LED et le buzzer sont définies comme des pins PWM. Tandis que le potentiomètre a été configuré comme pin ADC.
+
+3 - Ensuite la variable notes a été déclaré, cette variable comprend une liste de fréquences correspondant aux notes de la mélodie " We wish you a merry Christmas".
+
+4 - Ensuite une boucle for démarre, cette boucle est responsable de parcourrir toutes les fréquences de la mélodie, une par une de maniére séquentielle.
+
+5 - La lecture répétée de la valeur du potentiomètre pour obtenir en temps réel la position du potentiomètre, pour ajuster le volume.
+
+6 - Conversion de la valeur analogique du potentiomètre en rapport cyclique PWM pour contrôler le volume du buzzer, 
+
+7 - L'intensité de la LED va varier en fonction de la mélodie.
+
+8 - Ensuite il y a la lecture et affichage du volume sur le terminal en temps réel.
+
+9 - Ensuite une pause de est produite entre chaque reproduction des fréquences.
+
+10 - Et à la fin il a une pause plus prolongée pour séparer chaque cycle qui redemarre a 0 à nouveau.
+
+
+
 
 
 
