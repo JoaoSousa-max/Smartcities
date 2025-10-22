@@ -68,3 +68,7 @@ Déroulement du code
 - dht20.py (lib_capteur)
 - Capteur_de_temperature_DHT20_LABO3.py (main)
 
+# Image du projet
+![WhatsApp Image 2025-10-22 à 18 32 41_893e1ad8](https://github.com/user-attachments/assets/cfe4453f-bf77-4ff8-9228-750a7bba4de7)
+
+
