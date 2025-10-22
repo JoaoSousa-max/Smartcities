@@ -33,13 +33,17 @@ Le système fonctionne en boucle continue :
 # dht20:
 
 Le dht20 est un capteur de température et d'humidité.
+
 La communication est faite par I2C avec le Raspberry PI Pico.
+
 Pour pouvoir configurer le dht20 j'ai utilisé la librairie: dht20.py  
 
 # lcd1602:
 
 Le lcd1602 est un écran LCD de 2lignes x 16 caractères.
+
 La communication est faite par I2C avec le Raspberry Pi Pico.
+
 Pour pouvoir configurer le lcd j'ai utilisé la librairie: lcd1602.py  
 
 
@@ -71,6 +75,7 @@ Déroulement du code
 # Image du projet
 
 ![WhatsApp Image 2025-10-22 à 18 33 57_6fd725f4](https://github.com/user-attachments/assets/dcc67c12-9c74-4e41-96b8-02c001b9ab07)
+
 
 
 
