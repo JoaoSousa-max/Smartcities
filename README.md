@@ -1,5 +1,5 @@
 # SmartCities
-Ce répertoire téléchargé sur Github permet de retraiter le projet réalisé pendant le cours de SmartCities. 
+Ce répertoire téléchargé sur Github permet de retraiter les projets réalisés pendant le cours de SmartCities. 
 
 # Environement de travail
 <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/f7c3e7da-45fd-404f-a46c-c288086f3f63" />
