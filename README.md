@@ -1,5 +1,10 @@
 # SmartCities
 Ce repértoire téléchargé sur Github permet de retraiter les projets réalisés pendant le cours de SmartCities. 
+# Environement de travail
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/f7c3e7da-45fd-404f-a46c-c288086f3f63" />
+
+Pour la réalisation des projets, l'environement de travail utilisé est le Visual Studio de Microsoft, à l'aide de l'extension MicroPython.
+Cette extension permet l'utlisation du langage de programation MicroPython. Le MicroPython permet ainsi de coder, déboguer et télécharger le code sur le microcontrôleur.
 
 # Raspberry Pi Pico W RP2040
 
@@ -33,16 +38,6 @@ network : Accès réseau avec le RPi Pico.
 - [AD-PWM](AD-PWM)
 - [sensor](sensor)
 - [network](network)
-
-  
-
-Ce répertoire téléchargé sur Github permet de retraiter le projet réalisé pendant le cours de SmartCities. 
-
-# Environement de travail
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/f7c3e7da-45fd-404f-a46c-c288086f3f63" />
-
-Pour la réalisation de ce projet, l'environement de travail utilisé était Visual Studio de Microsoft, à l'aide de l'extension MicroPython.
-Cette extension permet l'utlisation du langage de programation MicroPython. Le MicroPython permet ainsi de coder, déboguer et télécharger le code sur le microcontrôleur.
 
 # Raspberry Pi Pico W RP2040
 
