@@ -4,12 +4,12 @@ Ce répertoire téléchargé sur Github permet de retraiter les projets réalis�
 # Environement de travail
 <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/f7c3e7da-45fd-404f-a46c-c288086f3f63" />
 
-Pour la réalisation de ce projet, l'environement de travail utilisé était Visual Studio de Microsoft, à l'aide de l'extension MicroPython.
+Pour la réalisation des projets, l'environement de travail utilisé est le Visual Studio de Microsoft, à l'aide de l'extension MicroPython.
 Cette extension permet l'utlisation du langage de programation MicroPython. Le MicroPython permet ainsi de coder, déboguer et télécharger le code sur le microcontrôleur.
 
 # Raspberry Pi Pico W RP2040
 
-Le microcontroleur utilisé pour la réalisation de ce labo est le Raspberry Pi Pico W RP2040, constitué de 21 broches.
+Le microcontroleur utilisé pour la réalisation des labos est le Raspberry Pi Pico W RP2040, constitué de 21 broches.
 
 Parmis ces 21 broches: Il existe différents types de protocoles de communication disponibles tels que l'UART, I2C, ainsi que des broches GPIO, dont certains possedent la fonction PWM.
 
