@@ -1,5 +1,4 @@
 # SmartCities
-<img width="650" height="973" alt="Image" src="https://github.com/user-attachments/assets/0ee946b8-0b56-4f8e-ba40-2e8c241b41b9" />
 Ce répertoire téléchargé sur Github permet de retraiter le projet réalisé pendant le cours de SmartCities. 
 
 # Environement de travail
