@@ -4,7 +4,7 @@ Ce répertoire téléchargé sur Github permet de retraiter le projet réalisé 
 
 # Environement de travail
 <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/f7c3e7da-45fd-404f-a46c-c288086f3f63" />
-
+<img width="650" height="973" alt="Image" src="https://github.com/user-attachments/assets/0ee946b8-0b56-4f8e-ba40-2e8c241b41b9" />
 Pour la réalisation de ce projet, l'environement de travail utilisé était Visual Studio de Microsoft, à l'aide de l'extension MicroPython.
 Cette extension permet l'utlisation du langage de programation MicroPython. Le MicroPython permet ainsi de coder, déboguer et télécharger le code sur le microcontrôleur.
 
