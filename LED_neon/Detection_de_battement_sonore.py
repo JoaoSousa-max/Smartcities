@@ -46,7 +46,6 @@ while True:
         liste_bpm.append(bpm)
         print("BPM instant:", int(bpm))
 
-    # toutes les 60 sec -> moyenne BPM -> écrit fichier
     if utime.ticks_diff(utime.ticks_ms(), start_minute) >= 60000:
         if len(liste_bpm) > 0:
             moyenne = sum(liste_bpm)/len(liste_bpm)
