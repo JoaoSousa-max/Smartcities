@@ -1,7 +1,8 @@
-# Détection de battement sonore avec Raspberry Pi Pico + LED WS2812
-Objectif
+# Détection de battement sonore avec la led WS2812 sur un Raspberry Pi Pico
 
-Ce projet a pour but de détecter des variations sonores grâce à un microphone branché sur une entrée analogique du Raspberry Pi Pico, puis d’allumer une LED RGB WS2812 en changeant sa couleur aléatoirement à chaque détection des pics/impulsion sonores.
+# Objectif
+
+Ce projet a pour but de détecter des variations sonores grâce à un microphone branché sur une entrée analogique du Raspberry Pi Pico, puis d’allumer une LED RGB WS2812 en changeant sa couleur aléatoirement à chaque détection des pics sonores reçus par le microphone.
 
 # Matériel utilisé
 
@@ -50,3 +51,4 @@ utime
 # Fichier principal
 
 Detection_de_battement_sonore.py (main)
+
