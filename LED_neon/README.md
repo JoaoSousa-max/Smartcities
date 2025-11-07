@@ -52,4 +52,8 @@ utime
 
 Detection_de_battement_sonore.py (main)
 
+# Opinion
+Le seuil doit être bien calibré, puisque certaines interferances comme le son produit par le pc ou meme des bruits externes peuvent influencer les analyses.
+
+
 
