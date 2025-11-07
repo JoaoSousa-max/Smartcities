@@ -52,8 +52,15 @@ utime
 
 Detection_de_battement_sonore.py (main)
 
+# Calcul du BPM 
+
+Battements Par Minute 
+À chaque battement détecté, l’intervalle de temps entre deux battements est mesuré. 
+La valeur moyenne est ensuite enregistré, les enregistrements ne sont pas visibles pendant le run du code dans Toogle Mpy FS.
+
 # Opinion
 Le seuil doit être bien calibré, puisque certaines interferances comme le son produit par le pc ou meme des bruits externes peuvent influencer les analyses.
+
 
 
 
