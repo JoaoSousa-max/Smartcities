@@ -8,9 +8,9 @@ Ce projet a pour but de détecter des variations sonores grâce à un microphone
 
 Raspberry Pi Pico
 
-1 LED RGB WS2812 
+1x LED RGB WS2812 
 
-1 Microphone analogique
+1x Microphone analogique
 
 Fils de connexion 
 
@@ -51,4 +51,5 @@ utime
 # Fichier principal
 
 Detection_de_battement_sonore.py (main)
+
 
