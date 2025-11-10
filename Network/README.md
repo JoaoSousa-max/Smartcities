@@ -86,4 +86,5 @@ La logique de détection des clics et du calcul d’angle permet une gestion con
 
 # Images du projet qui représentent le terminal et l'horloge simultanement
 
+![Image](https://github.com/user-attachments/assets/bc606646-4777-46bc-9465-6f3fc6583a89)
 
