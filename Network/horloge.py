@@ -5,7 +5,7 @@ from machine import Pin, PWM
 
 # Wifi Config
 WIFI_SSID = " ************ " # Nom du reseau Wifi
-WIFI_PASS = " **************** " #Mot de passe du reseau Wifi privée 
+WIFI_PASS = " **************** " #Mot de passe du reseau Wifi
 
 # Servo
 SERVO_PIN = 16            # GPIO du servo
