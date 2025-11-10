@@ -84,5 +84,6 @@ Le projet nécessite une connexion Wi-Fi pour synchroniser l’heure via NTP. Si
 
 La logique de détection des clics et du calcul d’angle permet une gestion continue même après un changement de fuseau horaire ou de mode horaire.
 
-# Images du projet qui représentent le terminal et la montre simultanement
+# Images du projet qui représentent le terminal et l'horloge simultanement
+
 
