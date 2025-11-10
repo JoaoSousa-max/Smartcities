@@ -29,9 +29,9 @@ Le servo positionne l’aiguille en fonction de l’heure locale calculée.
 
 - Raspberry Pi Pico
 
-- Servo moteur 
+- Servo moteur = GPIO16 
 
-- Bouton poussoir
+- Bouton poussoir = GPIO18
 
 - Fils de connexion
 
@@ -89,5 +89,6 @@ La logique de détection des clics et du calcul d’angle permet une gestion con
 ![Image](https://github.com/user-attachments/assets/bc606646-4777-46bc-9465-6f3fc6583a89)
 
 <img width="1848" height="1026" alt="Image" src="https://github.com/user-attachments/assets/ac9a0753-319c-4062-973c-c7ed1560ab6c" />
+
 
 
